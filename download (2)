@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-data/processed/*
-!data/processed/.gitkeep
-logs/*.jsonl
-.env
