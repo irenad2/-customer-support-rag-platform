@@ -1,0 +1,66 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "customer_email": "sara.k@example.com",
+    "category": "Billing",
+    "question": "I was charged twice for my monthly subscription this month, can you help?",
+    "resolution": "Duplicate charges happen when a payment retry succeeds after a delayed bank confirmation. Refund the second charge from the Billing dashboard and add a note to the customer's account to prevent auto-retry for 48 hours.",
+    "created_at": "2026-08-01T09:12:00"
+  },
+  {
+    "ticket_id": "T-1002",
+    "customer_email": "",
+    "category": "Login",
+    "question": "I can't log into my account, it says my password is incorrect even after resetting it.",
+    "resolution": "This is usually caused by cached credentials in the mobile app. Ask the customer to fully log out, clear the app cache, and log back in using the new password. If the issue persists, check if the account has 2FA enabled with an outdated device.",
+    "created_at": "2026-08-01T10:03:00"
+  },
+  {
+    "ticket_id": "T-1003",
+    "customer_email": "omar.h@example.com",
+    "category": "Shipping",
+    "question": "My order has been stuck in 'processing' for 5 days, when will it ship?",
+    "resolution": "Orders stuck in processing usually indicate a stock verification delay at the warehouse. Escalate to the fulfillment team and provide the customer with a revised shipping estimate of 2-3 business days.",
+    "created_at": "2026-08-02T08:45:00"
+  },
+  {
+    "ticket_id": "T-1004",
+    "customer_email": "layla.m@example.com",
+    "category": "Billing",
+    "question": "How do I update my credit card information on file?",
+    "resolution": "Guide the customer to Account Settings > Payment Methods > Add New Card. The old card can be removed once the new one is verified with a small authorization charge.",
+    "created_at": "2026-08-02T11:20:00"
+  },
+  {
+    "ticket_id": "T-1005",
+    "customer_email": "faisal.z@example.com",
+    "category": "Technical",
+    "question": "The app keeps crashing every time I try to upload a photo.",
+    "resolution": "This is a known issue on devices with less than 2GB free storage. Ask the customer to free up storage space and update to the latest app version, which includes a memory-handling fix for uploads.",
+    "created_at": "2026-08-03T14:02:00"
+  },
+  {
+    "ticket_id": "T-1006",
+    "customer_email": "",
+    "category": "Returns",
+    "question": "I want to return an item I bought two weeks ago, is that still possible?",
+    "resolution": "The standard return window is 30 days from delivery. Confirm the delivery date, generate a return label, and inform the customer that refunds are processed within 5-7 business days after the item is received.",
+    "created_at": "2026-08-04T09:30:00"
+  },
+  {
+    "ticket_id": "T-1007",
+    "customer_email": "nada.s@example.com",
+    "category": "Login",
+    "question": "I never received the verification code to confirm my email address.",
+    "resolution": "Check the spam folder first. If not found, resend the verification email manually from the Admin panel, and verify the customer's email domain is not on the delivery block list.",
+    "created_at": "2026-08-05T16:10:00"
+  },
+  {
+    "ticket_id": "T-1008",
+    "customer_email": "khaled.a@example.com",
+    "category": "Shipping",
+    "question": "Can I change my delivery address after placing the order?",
+    "resolution": "Address changes are only possible if the order has not yet been handed to the courier. Check the order status; if still in 'processing', update the address directly. If already shipped, advise contacting the courier.",
+    "created_at": "2026-08-06T07:55:00"
+  }
+]
