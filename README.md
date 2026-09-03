@@ -1,7 +1,6 @@
 # Real-Time Customer Support Intelligence Platform
 
-**Final Capstone Project — Modern Data Engineering for AI Systems**
-Course by [Saudi Data & AI Authority (SDAIA)](https://sdaia.gov.sa)
+This project was made for **"Modern Data Engineering for AI Systems"** course provided by [SDAIA Academy](https://github.com/SDAIAAcademy)
 
 ## 1. Overview
 
@@ -201,7 +200,5 @@ python main.py "A customer says they were billed twice, what should I do?"
 
 ## 9. Course Reference
 
-This project was built as the final capstone for the **Modern Data
-Engineering for AI Systems** course by the
-[Saudi Data & AI Authority (SDAIA)](https://sdaia.gov.sa) — Day 5:
+: This project was made for **"Modern Data Engineering for AI Systems"** course provided by [SDAIA Academy](https://github.com/SDAIAAcademy) — Day 5: 
 *Architecture Integration and Final Project*.
